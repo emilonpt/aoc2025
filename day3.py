@@ -48,4 +48,3 @@ def solve(day_input: list[str], part: int) -> int:
 if __name__ == '__main__':
     print("Part 1:", solve(get_input(3),1))
     print("Part 2:", solve(get_input(3),2))
-    #3121910778619 is too low
